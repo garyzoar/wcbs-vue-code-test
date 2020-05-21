@@ -1,2 +1,2 @@
 # wcbs-vue-code-test
-Technical test compelted by Gary Blake
+Technical test completed by Gary Blake
